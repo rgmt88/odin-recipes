@@ -1,2 +1,3 @@
 # odin-recipes
 Odin Project: Recipes
+Primer proyecto en Odin, una web basica de recetas... 
